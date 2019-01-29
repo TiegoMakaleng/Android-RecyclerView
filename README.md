@@ -1,4 +1,4 @@
-This application demonstrates usage of RecyclerView.
+This application demonstrates usage of a RecyclerView.
 
 ### Layout Managers
 ---------------------------------------------------
