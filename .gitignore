@@ -10,3 +10,4 @@ build
 libs
 proguard-rules.pro
 .bat
+drawable
